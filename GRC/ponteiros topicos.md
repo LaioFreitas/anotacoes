@@ -1,0 +1,14 @@
+- o que é
+	- explicar o tipo de dado
+		- mostrar que tem tamanho fixo 8 bytes em c (32 bits) independente do tipo de dados que ele aponta 
+	- mostrar que array(matriz) é na verdade um ponteiro no caso matriz ponteiro para ponteiro
+- como funciona
+	- explicar como declarar e manipular 
+	-  explicar pq o passo fixo funciona para caminha pela memoria (aritimetica de ponteiros)
+	- explicar a diferença entre atribuição normal e com ponteiro
+- exemplos de funcionamento
+	- endereçando tipos de dados diferentes
+	- manipulando string como ponteiro
+	- manipulando vetor e matrizes como ponteiros 
+	- passando ponteiro como argumento de uma função(passagem por referência) explicar diferença de passagem por valor (cópia) 
+	- fazer ponteiros apontarem para funções inteiras

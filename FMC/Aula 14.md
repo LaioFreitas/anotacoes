@@ -52,4 +52,3 @@ $$S_{n+1} = a_0 + r(a_0 + a_0r + a_0r²...a_0r^n)$$
 por definição temos que $a_0 + a_0r + a_0r²...+a_0r^n$ é o próprio $S_n$ logo:
 $$S_{n+1} = a_0 + rS_n$$
 $$S_{n+1} = S_n + a_{n+1}$$
-
