@@ -13,30 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FMC/Atividades.md",
+                "file": "CANA/Lista-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atividades"
+              "title": "Lista-1"
             }
           },
           {
-            "id": "84cb62bc6d14733a",
+            "id": "e1f62fd34198f70b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/Ponteiros conteúdo.md",
+                "file": "CANA/O problema da seleção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ponteiros conteúdo"
+              "title": "O problema da seleção"
+            }
+          },
+          {
+            "id": "3a5ff9d4201ca2bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CANA/O problema da seleção.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O problema da seleção"
+            }
+          },
+          {
+            "id": "3a36c34c69d2ddc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CANA/O problema da seleção.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O problema da seleção"
+            }
+          },
+          {
+            "id": "b56fa6cda60d23e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CANA/O problema da seleção.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O problema da seleção"
+            }
+          },
+          {
+            "id": "690f15b815ef56d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CANA/O problema da seleção.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O problema da seleção"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -68,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "CANA/O problema da seleção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for O problema da seleção"
             }
           },
           {
@@ -128,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "CANA/O problema da seleção.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from O problema da seleção"
             }
           },
           {
@@ -157,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "CANA/O problema da seleção.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of O problema da seleção"
             }
           },
           {
@@ -172,16 +228,16 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,37 +256,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "84cb62bc6d14733a",
+  "active": "690f15b815ef56d6",
   "lastOpenFiles": [
-    "GRC/Ponteiros conteúdo.md",
+    "CANA/Lista-1.md",
+    "CANA/arvore_de_recur├з├гo.canvas",
+    "CANA/imagem 1 -problema de selecao.excalidraw.md",
+    "CANA/image4- problema da seleção.excalidraw.md",
+    "CANA/O problema da seleção.md",
+    "CANA/image3-problema de selecao.excalidraw.md",
+    "CANA/image2- problema de selecao.48.44.excalidraw.md",
+    "Drawing 2025-11-17 14.22.04.excalidraw.md",
+    "Excel 2025-10-24 18.15.17.sheet.md",
+    "CANA/image 1-problema de selecao.canvas",
+    "CANA/Simulado 1.md",
     "FMC/Aula 14.md",
-    "FMC/Indução Matemática.md",
+    "Untitled.canvas",
+    "2025-11-17.md",
+    "Untitled.base",
+    "FMC/Atividades.md",
     "FMC/Atividade2.md",
+    "FMC/Indu├з├гo Matem├бtica.md",
+    "GRC/Ponteiros conteúdo.md",
+    "FMC/Indução Matemática.md",
     "Micros/Lista_prova1.md",
     "Micros/Relatório Micros.md",
     "Excel 2025-11-05 17.09.36.sheet.md",
     "Untitled Kanban 1.md",
     "GRC/ponteiros topicos.md",
-    "FMC/Atividades.md",
     "CANA/arvore_de_recurção.canvas",
-    "CANA/Lista-1.md",
     "Micros/Drawing 2025-10-24 16.08.32.excalidraw.md",
-    "CANA/Simulado 1.md",
     "GRC",
     "Excalidraw/topologia_atv2.excalidraw.md",
     "Excalidraw/Drawing 2025-10-20 16.21.58.excalidraw.md",
     "Untitled Kanban.md",
-    "Excel 2025-10-24 18.15.17.sheet.md",
     "Micros",
-    "2025-10-20.md",
-    "Excel 2025-10-20 16.22.08.sheet.md",
     "Excalidraw",
-    "Untitled.canvas",
     "FMC/Untitled.base",
-    "Untitled 1.md",
-    "Untitled.md",
     "CANA",
-    "Welcome.md",
     "FMC"
   ]
 }
