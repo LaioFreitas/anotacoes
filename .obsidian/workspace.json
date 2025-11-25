@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ingles/vocabulario.md",
+                "file": "CANA/Lista-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vocabulario"
+              "title": "Lista-1"
+            }
+          },
+          {
+            "id": "5b6d67c419b5a7db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FMC/SolucaoAP1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SolucaoAP1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CANA/O problema da seleção.md",
+                "file": "CANA/imagens-problema selecao/Drawing 2025-11-17 16.53.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O problema da seleção"
+              "title": "Backlinks for Drawing 2025-11-17 16.53.31.excalidraw"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CANA/O problema da seleção.md",
+                "file": "CANA/imagens-problema selecao/Drawing 2025-11-17 16.53.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O problema da seleção"
+              "title": "Outgoing links from Drawing 2025-11-17 16.53.31.excalidraw"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CANA/O problema da seleção.md",
+                "file": "CANA/imagens-problema selecao/Drawing 2025-11-17 16.53.31.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O problema da seleção"
+              "title": "Outline of Drawing 2025-11-17 16.53.31.excalidraw"
             }
           },
           {
@@ -186,41 +201,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "45fb5446829d123a",
+  "active": "5b6d67c419b5a7db",
   "lastOpenFiles": [
-    "FMC/Aula 14.md",
-    "FMC/Atividades.md",
-    "FMC/Atividade2.md",
     "ingles/vocabulario.md",
-    "CANA/O problema da seleção.md",
-    "CANA/Lista-1.md",
     "ingles",
-    "CANA/arvore_de_recur├з├гo.canvas",
     "CANA/imagem 1 -problema de selecao.excalidraw.md",
     "CANA/image4- problema da seleção.excalidraw.md",
     "CANA/image3-problema de selecao.excalidraw.md",
     "CANA/image2- problema de selecao.48.44.excalidraw.md",
+    "CANA/image 1-problema de selecao.canvas",
+    "CANA/arvore_de_recur├з├гo.canvas",
+    "Untitled Kanban 1.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled Kanban.md",
+    "FMC/SolucaoAP1.md",
+    "CANA/O problema da seleção.md",
+    "CANA/Lista-1.md",
+    "CANA/Método da recurção.md",
+    "CANA/imagens-problema selecao/imagem 1 -problema de selecao.excalidraw.md",
+    "CANA/imagens-problema selecao/image3-problema de selecao.excalidraw.md",
+    "CANA/imagens-problema selecao/image4- problema da seleção.excalidraw.md",
+    "CANA/imagens-problema selecao/image2- problema de selecao.48.44.excalidraw.md",
+    "CANA/imagens-problema selecao/arvore_de_recur├з├гo.canvas",
+    "CANA/imagens-problema selecao/Drawing 2025-11-17 16.53.31.excalidraw.md",
+    "CANA/imagens-problema selecao/image 1-problema de selecao.canvas",
+    "CANA/Simulado 1.md",
+    "FMC/Atividade2.md",
+    "FMC/Atividades.md",
+    "FMC/Aula 14.md",
+    "CANA/imagens-metodo de recurcao",
+    "CANA/imagens-problema selecao",
     "Drawing 2025-11-17 14.22.04.excalidraw.md",
     "Excel 2025-10-24 18.15.17.sheet.md",
-    "CANA/image 1-problema de selecao.canvas",
-    "CANA/Simulado 1.md",
-    "Untitled.canvas",
     "2025-11-17.md",
-    "Untitled.base",
     "FMC/Indu├з├гo Matem├бtica.md",
     "GRC/Ponteiros conteúdo.md",
     "FMC/Indução Matemática.md",
-    "Micros/Lista_prova1.md",
-    "Micros/Relatório Micros.md",
-    "Excel 2025-11-05 17.09.36.sheet.md",
-    "Untitled Kanban 1.md",
-    "GRC/ponteiros topicos.md",
     "CANA/arvore_de_recurção.canvas",
-    "Micros/Drawing 2025-10-24 16.08.32.excalidraw.md",
     "GRC",
-    "Excalidraw/topologia_atv2.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-20 16.21.58.excalidraw.md",
-    "Untitled Kanban.md",
     "Micros",
     "Excalidraw",
     "FMC/Untitled.base",

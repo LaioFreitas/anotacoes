@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e6ddc4dfe7f62869","type":"text","text":"","x":98,"y":-491,"width":250,"height":60},
+		{"id":"eaa10b70d8a4ceff","type":"text","text":"$\\large \\frac{n}{5}$ ","x":-288,"y":180,"width":108,"height":60},
+		{"id":"4c5c30d384f592f2","type":"text","text":" T(n)","x":-60,"y":-80,"width":98,"height":60,"color":"3"},
+		{"id":"bd95f65af84186c1","x":-120,"y":127,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"03675cb808e844e7","fromNode":"4c5c30d384f592f2","fromSide":"bottom","toNode":"eaa10b70d8a4ceff","toSide":"top"}
+	]
+}
