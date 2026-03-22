@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "controle/Modelando sistemas dinâmicos no domínio de Laplace.md",
+                "file": "controle/Laplace (unilateral).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelando sistemas dinâmicos no domínio de Laplace"
+              "title": "Laplace (unilateral)"
             }
           }
         ]
@@ -186,10 +186,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2b1da78a5670f6dc",
+  "active": "046cb609a721c563",
   "lastOpenFiles": [
-    "controle/Laplace (unilateral).md",
     "controle/Modelando sistemas dinâmicos no domínio de Laplace.md",
+    "controle/Laplace (unilateral).md",
     "eng-software/Untitled.canvas",
     "eng-software",
     "FMC/Aula 21.md",

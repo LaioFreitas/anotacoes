@@ -101,4 +101,47 @@ $$\large \int_{-\infty}^t x(\tau)d\tau \longleftrightarrow \frac{X(s)}{s} + \fra
 ## 9) Teorema do valor inicial:
 se $x(t) = 0$ para $t<0$ e $M < N$, tem-se que  
 
-$$x(0^+)  = lim_{s}{}$$
+$$x(0^+)  = \lim_{s\to\infty} sX(s)$$
+
+## 10)teorema do valor final:
+se $\large \lim_{}x(t)<\infty$ tem-se que
+$$x(\infty)= \lim_{s \to 0}sX(s)$$
+# execícios
+
+## 1) Determine a transformada de Laplace:
+### $$x(t)=-e^3tu(t)*tu(t)$$
+passando o '-' para o outro
+- $\large -tu(t) \longleftrightarrow -\frac{d}{ds}\frac{1}{s}$
+$$-\frac{1}{s^2}$$
+
+$$e^{3t}u(t) \longleftrightarrow \frac{1}{s - 3}$$
+$$\mathcal{L}\{x(t)\}= \frac{1}{s - 3} \centerdot -\frac{1}{s^2}= -\frac{1}{s^29s - 3)}$$
+
+## 2)Determine $Y(s)$ através da transformada de Laplace:
+
+ ### $$\large x(t)=te^{2t}u(t)$$
+ ### $$h(t) = \frac{1}{rc}e^{-\frac{t}{RC}}$$
+ é um sistema elétrico logo sua resposta vai ser a convolução dos dois sinais.
+
+  $$x(t)*y(t) \longleftrightarrow X(s)Y(s)$$
+  $$ \mathcal{L}\{x(t)\} -\frac{d}{ds} \frac{1}{s - 2}= \large \frac{-\frac{-d(s - 2)}{ds}}{(s - 2)^2} \rightarrow$$
+  $$\mathcal{L}\{x(t)\}=\frac{1}{(s - 2)^2}$$
+  $$\mathcal{L}\{h(t)\} = \frac{1}{rc} \centerdot \frac{1}{s + \large \frac{1}{RC}}$$
+temos então que $Y(s)$ é:
+$$Y(s)=\frac{1}{(s - 2)^2}\centerdot \frac{1}{RC} \frac{1}{s + \large \frac{1}{RC}}$$
+
+## 3)Determine o valor inicial e final de $x(t)$ a partir de:
+### $X(s) = \frac{7s+10}{s(s+2)}$
+
+
+$$x(0)= \lim_{s \to \infty} sX(s)$$
+$$\lim_{s \to \infty} s \frac{7s + 10}{s(s + 2)}$$
+$$\lim_{s \to \infty} \frac{7\cancel{s}^2 + 10s}{\cancel{s}^2 + 2s}$$
+* De forma simplificada (matematicamente está errado teria que dividir polinômio ou aplicar L'Hopital)(os termos dominantes são os termos ao quadrado) 
+
+$$x(0)=7$$
+$$x(\infty)=\lim_{s \to 0} s \frac{7s + 10}{s(s + 2)}$$
+$$x(\infty)=\lim_{s \to 0} \cancel{s} \frac{7s + 10}{\cancel{s}(s + 2)}$$
+- novamente sendo criterioso matematicamente está errado aplicando L'Hopital novamente deve resolver. 
+$$\frac{10}{2}$$
+$$x(\infty)=5$$
