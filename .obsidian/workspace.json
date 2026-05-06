@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "controle/Laplace (unilateral).md",
+                "file": "eng-software/Manifesto agil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laplace (unilateral)"
+              "title": "Manifesto agil"
             }
           }
         ]
@@ -188,14 +188,23 @@
   },
   "active": "046cb609a721c563",
   "lastOpenFiles": [
-    "controle/Modelando sistemas dinâmicos no domínio de Laplace.md",
-    "controle/Laplace (unilateral).md",
     "eng-software/Untitled.canvas",
+    "eng-software/Manifesto agil.md",
+    "calculo-numerico/Metodos_abertos.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "ATV 1 XP.md",
+    "ADM/Aula-2.md",
+    "caluloIII/Curvas.md",
+    "ADM",
+    "controle/Laplace (unilateral).md",
+    "caluloIII",
+    "controle/Modelando sistemas dinâmicos no domínio de Laplace.md",
     "eng-software",
     "FMC/Aula 21.md",
     "calculo-numerico/Introducao a metodos numericos.md",
     "S.O",
-    "Untitled.canvas",
     "calculo-numerico",
     "2025-11-17.md",
     "FMC/Aula 13.md",
@@ -212,24 +221,14 @@
     "CANA/conting sort.md",
     "CANA/atv3.md",
     "Untitled.md",
-    "Untitled.base",
     "Untitled Kanban.md",
-    "Untitled Kanban 1.md",
-    "GRC/Ponteiros conte├║do.md",
-    "CANA/imagens-metodo de recurcao/arvore_ex1.excalidraw.md",
-    "CANA/Simulado 1.md",
     "CANA/image 1-problema de selecao.canvas",
-    "CANA/Lista-1.md",
-    "CANA/image4- problema da seleção.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-20 16.21.58.excalidraw.md",
     "ingles",
     "CANA/arvore_de_recur├з├гo.canvas",
     "CANA/imagens-problema selecao/arvore_de_recur├з├гo.canvas",
     "CANA/imagens-problema selecao/image 1-problema de selecao.canvas",
     "CANA/imagens-metodo de recurcao",
     "CANA/imagens-problema selecao",
-    "CANA/arvore_de_recurção.canvas",
-    "GRC",
-    "Micros"
+    "CANA/arvore_de_recurção.canvas"
   ]
 }
