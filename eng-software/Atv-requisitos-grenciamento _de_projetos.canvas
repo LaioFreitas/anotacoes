@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"1b1712c8148c760f","x":80,"y":-540,"width":1420,"height":480,"type":"group","label":"teste"},
+		{"id":"b181f1c48af5f827","x":939,"y":-325,"width":250,"height":60,"type":"text","text":"Acompanhamento de atividades"},
+		{"id":"8e394aecf2970c1a","x":1162,"y":-153,"width":250,"height":60,"type":"text","text":"Verificação de resultados"},
+		{"id":"ba9ec5fb4615b104","x":600,"y":-229,"width":250,"height":60,"type":"text","text":"Divisão de responsabilidades"},
+		{"id":"2b270c8ced87ab40","x":440,"y":-500,"width":250,"height":60,"type":"text","text":"Cadastro de participantes"},
+		{"id":"d393eeeb2e0b25ff","type":"text","text":"Cadastro de projeto\n","x":-340,"y":-298,"width":194,"height":79},
+		{"id":"ee02bea5c791fbd9","x":85,"y":-329,"width":250,"height":60,"type":"text","text":"Início"},
+		{"id":"6e8d47b78efcc3d0","x":-200,"y":60,"width":250,"height":60,"type":"text","text":"cancelado"}
+	],
+	"edges":[
+		{"id":"c3d47b062e9ead27","fromNode":"d393eeeb2e0b25ff","fromSide":"right","toNode":"ee02bea5c791fbd9","toSide":"left","label":"inicialização"},
+		{"id":"1fb9a11e0879c76a","fromNode":"ee02bea5c791fbd9","fromSide":"right","toNode":"2b270c8ced87ab40","toSide":"left"},
+		{"id":"e0986b48158d1340","fromNode":"ba9ec5fb4615b104","fromSide":"right","toNode":"b181f1c48af5f827","toSide":"left"},
+		{"id":"e7c48ca8dc92b4cf","fromNode":"1b1712c8148c760f","fromSide":"bottom","toNode":"6e8d47b78efcc3d0","toSide":"top"},
+		{"id":"ee94d2622da75a73","fromNode":"b181f1c48af5f827","fromSide":"bottom","toNode":"8e394aecf2970c1a","toSide":"top"},
+		{"id":"6581afdcaf0a2161","fromNode":"2b270c8ced87ab40","fromSide":"right","toNode":"ba9ec5fb4615b104","toSide":"left"}
+	]
+}

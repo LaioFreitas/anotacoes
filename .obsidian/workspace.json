@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7a85026bd8ab60b1",
+        "id": "c4f699f2873fc52a",
         "type": "tabs",
         "children": [
           {
-            "id": "046cb609a721c563",
+            "id": "737fa93a711029ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "eng-software/Manifesto agil.md",
-                "mode": "source",
-                "source": false
+                "file": "eng-software/Atv-requisitos-grenciamento _de_projetos.canvas",
+                "viewState": {
+                  "x": 755.0962500000005,
+                  "y": -199.0362500000003,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Manifesto agil"
+              "icon": "lucide-layout-dashboard",
+              "title": "Atv-requisitos-grenciamento _de_projetos"
             }
           }
         ]
@@ -186,10 +189,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "046cb609a721c563",
+  "active": "737fa93a711029ef",
   "lastOpenFiles": [
-    "eng-software/Untitled.canvas",
+    "eng-software/Requisitos.md",
+    "Untitled 1.canvas",
+    "CANA/arvore_de_recur├з├гo.canvas",
+    "CANA/Lista-1.md",
     "eng-software/Manifesto agil.md",
+    "eng-software/Atv-requisitos-grenciamento _de_projetos.canvas",
     "calculo-numerico/Metodos_abertos.md",
     "Untitled 1.md",
     "Untitled.canvas",
@@ -220,11 +227,8 @@
     "CANA/Método da recurção.md",
     "CANA/conting sort.md",
     "CANA/atv3.md",
-    "Untitled.md",
-    "Untitled Kanban.md",
     "CANA/image 1-problema de selecao.canvas",
     "ingles",
-    "CANA/arvore_de_recur├з├гo.canvas",
     "CANA/imagens-problema selecao/arvore_de_recur├з├гo.canvas",
     "CANA/imagens-problema selecao/image 1-problema de selecao.canvas",
     "CANA/imagens-metodo de recurcao",
