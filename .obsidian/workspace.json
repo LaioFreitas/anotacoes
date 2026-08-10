@@ -11,17 +11,14 @@
             "id": "737fa93a711029ef",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "eng-software/Atv-requisitos-grenciamento _de_projetos.canvas",
-                "viewState": {
-                  "x": 755.0962500000005,
-                  "y": -199.0362500000003,
-                  "zoom": 0
-                }
+                "file": "calculo-numerico/lLista2_metodos_numericos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Atv-requisitos-grenciamento _de_projetos"
+              "icon": "lucide-file",
+              "title": "lLista2_metodos_numericos"
             }
           }
         ]
@@ -191,12 +188,14 @@
   },
   "active": "737fa93a711029ef",
   "lastOpenFiles": [
+    "eng-software/Projeto AP2.md",
+    "calculo-numerico/lLista2_metodos_numericos.md",
+    "eng-software/Atv-requisitos-grenciamento _de_projetos.canvas",
     "eng-software/Requisitos.md",
     "Untitled 1.canvas",
     "CANA/arvore_de_recur├з├гo.canvas",
     "CANA/Lista-1.md",
     "eng-software/Manifesto agil.md",
-    "eng-software/Atv-requisitos-grenciamento _de_projetos.canvas",
     "calculo-numerico/Metodos_abertos.md",
     "Untitled 1.md",
     "Untitled.canvas",
@@ -226,7 +225,6 @@
     "CANA/O problema da seleção.md",
     "CANA/Método da recurção.md",
     "CANA/conting sort.md",
-    "CANA/atv3.md",
     "CANA/image 1-problema de selecao.canvas",
     "ingles",
     "CANA/imagens-problema selecao/arvore_de_recur├з├гo.canvas",
