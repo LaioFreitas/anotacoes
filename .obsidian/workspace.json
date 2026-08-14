@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculo-numerico/lLista2_metodos_numericos.md",
+                "file": "PDI/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lLista2_metodos_numericos"
+              "title": "Untitled"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "737fa93a711029ef",
   "lastOpenFiles": [
-    "eng-software/Projeto AP2.md",
     "calculo-numerico/lLista2_metodos_numericos.md",
+    "PDI/Untitled.md",
+    "PDI",
+    "eng-software/Projeto AP2.md",
     "eng-software/Atv-requisitos-grenciamento _de_projetos.canvas",
     "eng-software/Requisitos.md",
     "Untitled 1.canvas",
@@ -224,13 +226,11 @@
     "FMC/Indu├з├гo Matem├бtica.md",
     "CANA/O problema da seleção.md",
     "CANA/Método da recurção.md",
-    "CANA/conting sort.md",
     "CANA/image 1-problema de selecao.canvas",
     "ingles",
     "CANA/imagens-problema selecao/arvore_de_recur├з├гo.canvas",
     "CANA/imagens-problema selecao/image 1-problema de selecao.canvas",
     "CANA/imagens-metodo de recurcao",
-    "CANA/imagens-problema selecao",
     "CANA/arvore_de_recurção.canvas"
   ]
 }
